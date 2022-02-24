@@ -4,3 +4,7 @@ h1 {
     font-size: 1px;
     font: italic;
 }
+h2{
+    color: red;
+    background-color: white;
+}
